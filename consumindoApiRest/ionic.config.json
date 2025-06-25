@@ -1,0 +1,7 @@
+{
+  "name": "consumindoApiRest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
